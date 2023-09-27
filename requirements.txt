@@ -1,3 +1,4 @@
 backtrader
 matplotlib
-python3-tk
+pandas
+pandas_datareader
