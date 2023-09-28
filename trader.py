@@ -1,6 +1,6 @@
 import backtrader
 import datetime
-from strategies import TestStrategy
+from strategiesini import TestStrategy
 import matplotlib
 
 # Instanciamos el centro de control de backtrader (inicializador)
