@@ -32,3 +32,5 @@ class VIXStrategy(bt.Strategy):
         # estrategia en el caso en el que vea muy bajo el índice y quiera cerrar una posición
         # if self.vix[0] < 12 and self.position:
         #     self.close()
+
+        # Siguiente paso conectar con broker real
